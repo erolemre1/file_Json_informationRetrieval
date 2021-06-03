@@ -1,0 +1,77 @@
+
+[
+
+{
+    "id": 1,
+"firstname" :"Emre",
+"lastname":"Güleç",
+"age":23 ,
+"retired":false
+},
+{
+    "id": 2,
+"firstname" :"Erol",
+"lastname":"Güleç",
+"age":73 ,
+"retired":true
+},
+{
+    "id": 3,
+"firstname" :"Musut",
+"lastname":"Ozil",
+"age":23 ,
+"retired":false
+},
+{
+    "id": 4,
+"firstname" :"Altay ",
+"lastname":"Bayındı",
+"age":65 ,
+"retired":true
+},
+{
+    "id": 5,
+"firstname" :"Ozan Tufan",
+"lastname":"Tufan",
+"age":65 ,
+"retired":true
+},
+{
+    "id": 6,
+"firstname" :"Enner Valencia",
+"lastname":"Valencia",
+"age":65 ,
+"retired":true
+},
+{
+    "id": 7,
+"firstname" :"Luiz",
+"lastname":"Gustavo",
+"age":65 ,
+"retired":true
+},{
+    "id": 8,
+"firstname" :"Diego",
+"lastname":"pertorri",
+"age":65 ,
+"retired":true
+},{
+    "id": 9,
+"firstname" :"Gökhan",
+"lastname":"Gönl",
+"age":65 ,
+"retired":true
+},{
+    "id":10,
+"firstname" :"Erol Emre",
+"lastname":"Güleç",
+"age":65 ,
+"retired":true
+},{
+    "id": 11,
+"firstname" :"Erol Emre",
+"lastname":"Güleç",
+"age":65 ,
+"retired":true
+}
+]

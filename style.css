@@ -1,0 +1,23 @@
+body{
+    background-color: gray;
+}
+#lgif {
+    width: 100px;
+ position: relative;
+ left: 45%;
+}
+#loading{
+    display: none;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+#postid{
+    width: 400px;
+    position: relative;
+    top: 30px;
+}
+#getEmployee{
+    margin-right: 50px;
+}
